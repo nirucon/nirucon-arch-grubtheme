@@ -1,2 +1,2 @@
-# nirucon-arch-grubtheme
+# nirucon-death-grubtheme
 Custom grub theme for Arch Linux
