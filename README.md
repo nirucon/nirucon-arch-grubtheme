@@ -58,3 +58,7 @@ To install the nirucon-death GRUB2 theme, follow these steps:
 - **Missing Icons**: Ensure that the icon files are correctly placed in the theme directory.
 - **Configuration Errors**: Double-check the path specified in the `GRUB_THEME` variable.
 - **No Theme Applied**: Make sure to run `sudo update-grub` after editing the GRUB configuration file.
+
+## License
+
+Feel free to use and modify, donate if you want :) https://www.paypal.com/paypalme/nicklasrudolfsson
